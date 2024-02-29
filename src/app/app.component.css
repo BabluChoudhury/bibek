@@ -1,0 +1,38 @@
+td.something {
+    width: 70px;
+}
+
+tr.tr {
+    height: 50px;
+    border-top: 1px solid rgb(198, 197, 197)
+}
+tr.text{
+    text-align: center;
+}
+table.table{
+    border: 1px solid  rgb(198, 197, 197);
+    border-radius: 7px;
+}
+input{
+    margin-left: 10px;
+}
+tr.active{
+    background-color: rgb(182, 232, 249);
+}
+.bg-ciyan{
+    margin-top: -15px;
+    background-color: rgb(182, 232, 249);
+}
+.round{
+    padding: 4px 10px;
+    border-radius: 55%;
+    background-color: rgb(46, 156, 246);
+}
+.round1{
+    padding: 2px 6px;
+    border-radius: 55%;
+    background-color: rgb(114, 188, 248);
+}
+.c1{
+    height: 3px;
+}
